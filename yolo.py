@@ -15,7 +15,7 @@ def process_frame(frame, model):
 model = torch.hub.load('ultralytics/yolov5', 'yolov5m')
 
 # Load your video
-cap = cv2.VideoCapture('/Users/irmuun/Documents/Aya_IOT/YoloTracking-main/highway360.mp4')
+cap = cv2.VideoCapture('/Users/adinai/Downloads/Aya_IOT/YoloTracking-main/highway360.mp4 ')
 
 # Initialize the ThreadPoolExecutor
 executor = ThreadPoolExecutor(max_workers=1)
