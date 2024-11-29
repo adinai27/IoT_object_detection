@@ -6,7 +6,7 @@ from collections import deque
 model = torch.hub.load('ultralytics/yolov5', 'yolov5l', pretrained=True)
 
 # Initialize video
-cap = cv2.VideoCapture('/Users/irmuun/Documents/Aya_IOT/YoloTracking-main/people.mp4')
+cap = cv2.VideoCapture('/Users/adinai/Downloads/Aya_IOT/YoloTracking-main/highway360.mp4 ')
 
 # Define the target frame size
 target_width = 320
