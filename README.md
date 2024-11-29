@@ -39,7 +39,7 @@ To set up and run this project, follow these steps:
 ### Setup
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/irmuun8881/YoloTracking.git
+   git clone https://github.com/adinai27/YoloTracking.git
    cd YoloTracking
 Create and Activate Virtual Environment (Optional)
 
