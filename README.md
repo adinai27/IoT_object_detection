@@ -48,7 +48,7 @@ sh
 Copy code
 python -m venv venv
 venv\Scripts\activate
-macOS/Linux:
+- macOS/Linux:
 sh
 Copy code
 python3 -m venv venv
