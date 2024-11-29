@@ -5,7 +5,7 @@ import torch
 model = torch.hub.load('ultralytics/yolov5', 'yolov5m', pretrained=True)
 
 # Initialize video
-cap = cv2.VideoCapture('/Users/irmuun/Documents/Aya_IOT/YoloTracking-main/highway360.mp4')
+cap = cv2.VideoCapture('/Users/adinai/Downloads/Aya_IOT/YoloTracking-main/highway360.mp4 ')
 
 # Initialize tracker for each car detected
 trackers = []
