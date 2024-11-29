@@ -39,8 +39,8 @@ To set up and run this project, follow these steps:
 ### Setup
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/adinai27/YoloTracking.git
-   cd YoloTracking
+   git clone https://github.com/adinai27/IoT_object_detection.git
+   cd IoT_object_detection
 Create and Activate Virtual Environment (Optional)
 
 Windows:
