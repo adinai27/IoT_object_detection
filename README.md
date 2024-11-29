@@ -1,5 +1,5 @@
 # IoT_object_detection
-# Advanced Object Tracking with OpenCV and YOLO
+# Advanced Object Tracking with OpenCV and YOLO(You only look once) 
 
 ## Introduction
 Hello and welcome to this detailed exploration of combining traditional computer vision methods with advanced neural networks for object tracking. This project is an endeavor to achieve effective and precise tracking using OpenCV and YOLO, particularly tailored for systems with limited computational power.
